@@ -18,7 +18,7 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    marginTop: 51,
+    marginTop: 50,
     borderWidth: 6,
     borderColor: "red",
   },
